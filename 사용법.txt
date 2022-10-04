@@ -1,0 +1,13 @@
+사용법
+1. 가상환경 설치
+ -윈도우 명령 프롬포트 실행
+ -원하는 폴더로 이동 
+ -명령어 'python -m venv example' 입력
+ -example 파일로 이동
+ -명령어 'Scripts\activate.bat' 입력
+
+2. Rembg 실행
+ -example 폴더에 데이터 이동
+ -명령어 'pip install rembg' 입력
+ -명령어 'rembg p -m u2net_human_seg (input 데이터폴더이름) (output 데이터폴더이름)
+
